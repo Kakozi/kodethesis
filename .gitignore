@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Allow folders
+!*/
+
+# Allow only notebook and csv
+!*.ipynb
+!*.csv
+!*.xlsx
+
+# Allow git files
+!.gitignore
+!README.md
