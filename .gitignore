@@ -6,8 +6,8 @@
 
 # Allow only notebook and csv
 !*.ipynb
-!*.csv
-!*.xlsx
+#!*.csv
+#!*.xlsx
 
 # Allow git files
 !.gitignore
